@@ -70,12 +70,6 @@
                 margin-left: 110px;
             }
             
-            .fundo-do-h1:hover {
-                -webkit-transform: scale(1.1);
-                transform: scale(1.1);
-                transition: 0.3s
-            }
-            
             h1 {
                 color: #FFFFFF;
                 font-weight: 800;
@@ -149,12 +143,6 @@
                 border: none;
                 margin-top: 20px;
                 cursor: pointer;
-            }
-            
-            button:hover {
-                -webkit-transform: scale(1.1);
-                transform: scale(1.1);
-                transition: 0.3s
             }
             
             section {
